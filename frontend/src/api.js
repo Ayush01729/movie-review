@@ -1,5 +1,5 @@
 // src/api.js
-const API_URL = "https://movie-review-server-khaki.vercel.app/";
+const API_URL = "https://movie-review-server-khaki.vercel.app";
 
 // Fetch all movies
 export const fetchMovies = async () => {
